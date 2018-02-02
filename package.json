@@ -1,0 +1,22 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "Sistema de actividades y tareas automatizadas y calendarizadas para alumno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACLSystems/tarea.git"
+  },
+  "keywords": [
+    "tarea"
+  ],
+  "author": "Arturo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACLSystems/tarea/issues"
+  },
+  "homepage": "https://github.com/ACLSystems/tarea#readme"
+}
