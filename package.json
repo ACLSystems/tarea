@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ACLSystems/tarea/issues"
   },
-  "homepage": "https://github.com/ACLSystems/tarea#readme"
+  "homepage": "https://github.com/ACLSystems/tarea#readme",
+  "dependencies": {
+    "node-excel-to-json": "0.0.3"
+  }
 }
