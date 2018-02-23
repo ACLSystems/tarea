@@ -20,11 +20,12 @@
 *.tar
 *.zip
 
-# Logs and databases #
+# Logs, files and databases #
 ######################
 /logs/*
 /ssl/*
 /data/*
+/files/*
 *.log
 *.sql
 *.sqlite

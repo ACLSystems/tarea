@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/ACLSystems/tarea#readme",
   "dependencies": {
+    "@google/maps": "^0.4.5",
+    "mongoose": "^5.0.3",
     "node-excel-to-json": "0.0.3"
   }
 }

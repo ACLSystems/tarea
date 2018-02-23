@@ -1,0 +1,408 @@
+{
+  "isVisible": true,
+  "text": "El cliente mexicano actual:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Adquiere los servicios de menor costo."
+    },
+    {
+      "name": "b",
+      "value": "Elige los servicios de origen nacional, para fortalecer la economía interna."
+    },
+    {
+      "name": "c",
+      "value": "Exige mejor calidad, bajo precio y un servicio prestado cuando y en las condiciones que él desea."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "El proceso de globalización es consecuencia de:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Los grandes avances en las tecnologías de la información y las comunicaciones."
+    },
+    {
+      "name": "b",
+      "value": "La tras-nacionalización de las economías y de los mercados."
+    },
+    {
+      "name": "c",
+      "value": "El incremento demográfico tan acelerado, de los últimos tiempos."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 0
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Son características del proceso de globalización todas las siguientes, excepto:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Las comunicaciones y transmisión de información sobre productos, proveedores, tecnología, estilos, precios, condiciones, etc., es instantánea."
+    },
+    {
+      "name": "b",
+      "value": "La reducción en los costos de mano de obra calificada."
+    },
+    {
+      "name": "c",
+      "value": "La competencia se intensifica porque no hay barreras para acceder a mercados mundiales y los productos pueden ser enviados desde y a cualquier parte del mundo."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 1
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Los procesos tradicionales de producción se caracterizaban por todo lo siguiente, salvo:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Producción en serie."
+    },
+    {
+      "name": "b",
+      "value": "Especialización de las personas dentro de la empresa y puestos de trabajo definidos."
+    },
+    {
+      "name": "c",
+      "value": "La capacitación se considera como fundamental y como inversión."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Los procesos modernos de producción, se distinguen por las siguientes características a excepción de:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Falta de Innovación y creatividad."
+    },
+    {
+      "name": "b",
+      "value": "Recursos humanos con conocimientos y experiencia para poder desarrollar diferentes actividades y puestos de trabajo en su empresa. Producción diferenciada, orientada a las necesidades cambiantes del mercado."
+    },
+    {
+      "name": "c",
+      "value": "Redes de trabajo hacia adentro de la empresa, en actividades de trabajo en equipo, comunicación."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 0
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Actividad que se lleva a cabo para aumentar las probabilidades de transacción que se traduzcan en ventas.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Comercialización"
+    },
+    {
+      "name": "b",
+      "value": "Mercadeo"
+    },
+    {
+      "name": "c",
+      "value": "Promoción"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 1
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Conjunto de actividades realizadas por la empresa para lograr que el producto y/o servicio que ofrece esté al alcance de los consumidores.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Marketing"
+    },
+    {
+      "name": "b",
+      "value": "Venta planeada"
+    },
+    {
+      "name": "c",
+      "value": "Comercialización"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Sistema de actividades cuya finalidad es planear, fijar precios, promocionar y distribuir productos, servicios e ideas que satisfacen una necesidad o deseo en beneficio de consumidores presentes y potenciales, para lograr los objetivos de la organización.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Mercadotecnia"
+    },
+    {
+      "name": "b",
+      "value": "Outsourcing"
+    },
+    {
+      "name": "c",
+      "value": "Comercio"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 0
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Mercadotecnia, mercadeo, comercialización, técnica para conquistar mercados.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Comercialización"
+    },
+    {
+      "name": "b",
+      "value": "Promoción de ventas"
+    },
+    {
+      "name": "c",
+      "value": "Marketing"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Las siguientes son funciones del área de comercialización de una empresa, menos:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Definir la razón de ser de la empresa, con respecto a su giro, tamaño, productos y/o servicios que ofrece."
+    },
+    {
+      "name": "b",
+      "value": "Identificar la competencia, su cobertura geográfica, sus características, productos, forma de atender a sus clientes, canales de distribución, precios, entre otros, así como  identificar las necesidades y deseos del posible mercado potencial."
+    },
+    {
+      "name": "c",
+      "value": "Llevar a cabo la selección de recursos humanos en apego a la razón de ser de la empresa."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "El área de comercialización de una empresa es importante porque realiza entre otras, las funciones descritas a continuación, excepto:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Contar con un mecanismo bien definido de su política de precios, con relación a los de sus competidores y realizar proyecciones de pronósticos de ventas, considerando las circunstancias del mercado."
+    },
+    {
+      "name": "b",
+      "value": "Identificar y definir los canales de distribución más idóneos, según las características de sus productos y clientes, así como establecer un adecuado sistema de publicidad y promoción, acorde a los requerimientos del mercado."
+    },
+    {
+      "name": "c",
+      "value": "Generar sistemas de estímulos y recompensas para los promotores de ventas más sobresalientes de la empresa."
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Es el que está formado por consumidores que compran para producir o revender. Se caracteriza por tener pocos compradores, menor actividad de mercadotecnia y mayor monto en cada compra en volumen y dinero.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Mercado de bienes y servicios"
+    },
+    {
+      "name": "b",
+      "value": "Mercado de consumo"
+    },
+    {
+      "name": "c",
+      "value": "Mercado industrial"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Es el que está constituido por personas que compran para satisfacer una necesidad inmediata. Algunos ejemplos de este tipo de mercado son: Alimentos, vestido, calzado.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Mercado de consumo"
+    },
+    {
+      "name": "b",
+      "value": "Mercado industrial"
+    },
+    {
+      "name": "c",
+      "value": "Mercado de bienes y servicios"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 0
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "De acuerdo con sus aspectos más generales, el mercado puede dividirse en:",
+  "options": [
+    {
+      "name": "a",
+      "value": "Mercado industrial y mercado de consumo"
+    },
+    {
+      "name": "b",
+      "value": "Mercado real y mercado potencial"
+    },
+    {
+      "name": "c",
+      "value": "Mercado del productor y mercado del distribuidor"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 1
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Es aquél mercado al cual será posible venderle bienes y servicios, siempre y cuando los consumidores tengan la capacidad y características necesarias para efectuar la compra.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Mercado internacional"
+    },
+    {
+      "name": "b",
+      "value": "Mercado real"
+    },
+    {
+      "name": "c",
+      "value": "Mercado potencial"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 2
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Es el proceso de dividir el mercado heterogéneo total de un producto en varios segmentos, cada uno de los cuales tiende a ser homogéneo en todos los aspectos importantes. Primero se averiguan las necesidades de los clientes dentro de un sub-mercado y luego las satisfacen.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Segmentación"
+    },
+    {
+      "name": "b",
+      "value": "Definición de nichos"
+    },
+    {
+      "name": "c",
+      "value": "Diferenciación"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 0
+    }
+  ]
+},
+{
+  "isVisible": true,
+  "text": "Para la selección del producto o servicio que satisfaga sus necesidades, comúnmente este mercado se segmenta en cuatro categorías generales: Geográficas, Demográficas, Sicográficas y Comportamiento ante el producto.",
+  "options": [
+    {
+      "name": "a",
+      "value": "Mercado del distribuidor"
+    },
+    {
+      "name": "b",
+      "value": "Mercado de los consumidores"
+    },
+    {
+      "name": "c",
+      "value": "Mercado del productor"
+    }
+  ],
+  "answers": [
+    {
+      "type": "index",
+      "index": 1
+    }
+  ]
+},
